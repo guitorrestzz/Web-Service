@@ -20,7 +20,7 @@ O objetivo é fornecer um CRUD básico para prática de programação web com in
 ## 🛠️ Tecnologias Utilizadas
 
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Node.js (ou Python, se aplicável) + SQLite3
+- **Backend:** Flask Python + SQLite3
 - **Banco de Dados:** SQLite3
 
 ---
