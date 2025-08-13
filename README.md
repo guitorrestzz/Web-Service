@@ -1,5 +1,5 @@
 # Web-Service
-# 🧑‍💻 Web Service de Cadastro e Consulta de Pessoas
+#  Web Service de Cadastro e Consulta de Pessoas
 
 Um sistema simples para **cadastrar pessoas** e **consultar registros** em um banco de dados **SQLite3**, com interface construída em **HTML, CSS e JavaScript**.  
 O objetivo é fornecer um CRUD básico para prática de programação web com integração de banco de dados.
