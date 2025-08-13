@@ -8,7 +8,7 @@ O objetivo é fornecer um CRUD básico para prática de programação web com in
 
 ## 🚀 Funcionalidades
 
-- 📌 Cadastro de novas pessoas (nome, idade, e-mail, etc.)
+- 📌 Cadastro de novas pessoas (nome, e-mail, telefone e foto de perfil)
 - 🔍 Consulta de pessoas já cadastradas
 - ✏️ Edição de registros existentes
 - ❌ Exclusão de registros
